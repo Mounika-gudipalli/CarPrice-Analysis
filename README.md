@@ -18,11 +18,11 @@ The source data given contains the information about different types of cars acr
 
 ## Analysis 
 
-### 1. Importing and Understanding Data
+#### 1. Importing and Understanding Data
  - Imported the dataset
  - Shape and Type of columns in dataset
  - Statistical Information about dataset
-### 2. Data Cleaning and Preparation using Exploratory Data Analysis (EDA)
+#### 2. Data Cleaning and Preparation using Exploratory Data Analysis (EDA)
  - Derived new columns CompanyName and Power to Weight Ratio
  - No missing values and duplicate values in dataset
  - Dropped Car ID column as it will not be useful in our further analysis
@@ -31,9 +31,9 @@ The source data given contains the information about different types of cars acr
  - Rescaled the variables by applying normalize function
  - Corrected Spelling mistakes in Car Name column
  - Univariate and Bivariate Analysis by plotting graphs
- ### 3. Splitting data into training and testing sets
- ### 4. Linear Regression using Recursive Feature Elimination
- ### 5. BootStrap Technique used to resample and create a large dataset for Model prediction
+ #### 3. Splitting data into training and testing sets
+ #### 4. Linear Regression using Recursive Feature Elimination
+ #### 5. BootStrap Technique used to resample and create a large dataset for Model prediction
  
  ## Conclusion
  
